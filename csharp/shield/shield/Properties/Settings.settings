@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="shield.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="com_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="cam_on_color" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FF0000</Value>
+    </Setting>
+    <Setting Name="cam_off_color" Type="System.String" Scope="User">
+      <Value Profile="(Default)">000000</Value>
+    </Setting>
+    <Setting Name="mic_on_color" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FF0000</Value>
+    </Setting>
+    <Setting Name="mic_off_color" Type="System.String" Scope="User">
+      <Value Profile="(Default)">000000</Value>
+    </Setting>
+    <Setting Name="beep" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
